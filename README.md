@@ -3,7 +3,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/Lucas-VReal">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucas-vreal&show_icons=true&theme=dark&include_all_commits=false&hide=stars,prs,issues,contribs"/>
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucas-vreal&show_icons=true&theme=dark&include_all_commits=true&hide=stars,prs,issues,contribs"/>
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucas-vreal&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
