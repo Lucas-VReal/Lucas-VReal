@@ -4,9 +4,9 @@
 <div>
     <a href="https://github.com/Lucas-VReal" style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
         <img height="100%"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucas-vreal&show_icons=true&theme=dark&include_all_commits=true&hide=stars,prs,issues,contribs" />
+            src="https://github-readme-stats.vercel.app/api?username=lucas-vreal&show_icons=true&theme=dark&include_all_commits=true&hide=stars,prs,issues,contribs" />
         <img height="100%"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucas-vreal&layout=compact&langs_count=7&theme=dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vreal&layout=compact&langs_count=7&theme=dark" />
 </div>
 <br>
 <br>
@@ -16,7 +16,7 @@
 🌱 I’m currently learning about the Spring Framework and Java. I want to build better projects using my skills,
 knowledge and the best practicies.
 
-👯 I’m looking to new challenges to solve and aprimorate my skills.
+👯 I’m looking for new challenges to solve and aprimorate my skills.
 
 💬 Ask me about my projects and the methods used in them. I'm familiar with the Restful model of Richardson in CRUD.
 
