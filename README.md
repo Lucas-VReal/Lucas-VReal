@@ -3,9 +3,7 @@
 <br>
 <div>
     <a href="https://github.com/Lucas-VReal" style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
-        <img height="100%"
-            src="https://github-readme-stats.vercel.app/api?username=lucas-vreal&show_icons=true&theme=dark&include_all_commits=true&hide=stars,prs,issues,contribs" />
-        <img height="100%"
+        <img height="fit-content" width="40%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vreal&layout=compact&langs_count=7&theme=dark" />
 </div>
 <br>
